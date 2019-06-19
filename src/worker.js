@@ -17,7 +17,6 @@ function Worker(port) {
     var self = this;
 
     self.id = new Buffer(crypto.createHash('sha1').update((config.address || '') + port.toString()).digest('hex'), 'hex');
-    console.log(self.id)
     self.port = port;
     self.socket = dgram.createSocket('udp4');
 
