@@ -1,0 +1,20 @@
+2019-06-19T06:30:09.458Z - error: get remoteNodes error
+2019-06-19T06:30:09.459Z - error: 
+2019-06-19T06:30:09.459Z - error: redis error: Error: Redis connection to 106.12.138.191:6379 failed - connect ECONNREFUSED 106.12.138.191:6379
+2019-06-19T06:30:09.460Z - info: redis服务器连接被断开
+2019-06-19T06:30:14.410Z - error: get remoteNodes error
+2019-06-19T06:30:14.410Z - error: 
+2019-06-19T06:30:14.410Z - error: redis error: Error: Redis connection to 106.12.138.191:6379 failed - connect ECONNREFUSED 106.12.138.191:6379
+2019-06-19T06:30:14.411Z - info: redis服务器连接被断开
+2019-06-19T06:30:14.424Z - error: connect to antcolony error:  failed to connect to [106.12.138.191:27017]
+2019-06-19T06:30:16.063Z - error: get remoteNodes error
+2019-06-19T06:30:21.006Z - error: get remoteNodes error
+2019-06-19T06:30:21.008Z - error: 
+2019-06-19T06:30:21.008Z - error: redis error: Error: Redis connection to 106.12.138.191:6379 failed - connect ECONNREFUSED 106.12.138.191:6379
+2019-06-19T06:30:21.008Z - info: redis服务器连接被断开
+2019-06-19T06:30:21.023Z - error: connect to antcolony error:  failed to connect to [106.12.138.191:27017]
+2019-06-19T06:30:35.881Z - error: get remoteNodes error
+2019-06-19T06:30:35.882Z - error: 
+2019-06-19T06:30:35.882Z - error: redis error: Error: Redis connection to 106.12.138.191:6379 failed - connect ECONNREFUSED 106.12.138.191:6379
+2019-06-19T06:30:35.883Z - info: redis服务器连接被断开
+2019-06-19T06:30:35.893Z - error: connect to antcolony error:  failed to connect to [106.12.138.191:27017]
