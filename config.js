@@ -10,10 +10,10 @@ module.exports = {
     // redis相关
     redisHost: '127.0.0.1', // 服务器
     redisPort: 6379,
-    redisAuth: '123456',
+    // redisAuth: '123456',
 
     // mongodb相关
-    mongodbHost: '127.0.0.1', // 服务器
+    mongodbHost: '106.12.138.191', // 服务器
     mongodbPort: 27017,
     mongodbDatabase: 'antcolony',
     mongodbUserName: 'antcolony',

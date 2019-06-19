@@ -3,3 +3,9 @@
   pm2 start src/queen.js -f --name worker[3001] -- worker 3001
   pm2 start src/queen.js -f --name male[1] -- male 1
   pm2 start src/queen.js -f --name female[1] -- female 1
+
+
+### fixed
+  node src/queen.js worker 3000
+  node src/queen.js male
+  node src/queen.js female
